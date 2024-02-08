@@ -1,0 +1,42 @@
+.carrusel-content {
+    padding: 0.5rem;
+    border-radius: 0 0 0.5rem 0.5rem;
+
+    .title {
+        color: #ffffff;
+        font-weight: bold;
+        font-size: 50px;
+        margin-left: 30px;
+        -webkit-text-stroke-color: black;
+        -webkit-text-stroke-width: 2px;
+    }
+}
+
+
+.bienvenidos {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    text-decoration: underline;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.containerOne {
+    display: flex;
+    align-items: center;
+
+    .mCollection {
+        width: 500px;
+        height: 350px;
+        margin-left: 20px;
+        margin-right: 10px;
+    }
+
+    .welcome {
+        text-align: justify;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 30px;
+        margin-right: 20px;
+        margin-left: 10px;
+    }
+}
