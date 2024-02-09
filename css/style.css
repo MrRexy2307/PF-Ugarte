@@ -132,6 +132,17 @@
   text-decoration: underline;
 }
 
+.register {
+  color: #fff;
+  text-decoration: none;
+  font-family: "Times New Roman", Times, serif;
+  transition: font-size 0.3s;
+}
+.register:hover {
+  font-size: 20px;
+  color: #333;
+}
+
 .carrusel-content {
   padding: 0.5rem;
   border-radius: 0 0 0.5rem 0.5rem;

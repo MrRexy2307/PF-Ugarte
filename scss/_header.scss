@@ -44,3 +44,17 @@ $color-fuente: #fff;
         }
     }
 }
+
+//footer
+
+.register {
+    color: $color-fuente;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    transition: font-size 0.3s;
+
+    &:hover {
+        font-size: 20px;
+        color: $color-header;
+    }
+}
