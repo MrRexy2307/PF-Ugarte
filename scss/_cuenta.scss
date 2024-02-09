@@ -43,3 +43,16 @@
         }
     }
 }
+
+
+.allImage{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    .allMight {
+        width: 350px;
+        height: 100%;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+}

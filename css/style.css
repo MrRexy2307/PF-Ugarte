@@ -45,6 +45,18 @@
   background-color: #0056b3;
 }
 
+.allImage {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.allImage .allMight {
+  width: 350px;
+  height: 100%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
 .map {
   width: 800px;
   height: 450px;
@@ -86,7 +98,7 @@
 .socialMedia {
   display: flex;
   justify-content: center;
-  margin-bottom: 20px;
+  margin-bottom: 30px;
 }
 
 .socialMedia img {
